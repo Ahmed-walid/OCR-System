@@ -14,4 +14,4 @@ OCR system implemented using tesseract OCR engine
 
 ## Test Cases:
 
-<img src="https://drive.google.com/file/d/1R1cc9wbfpEGZjgL3qnToAZtzC7e1pG4j/view?usp=sharing" alt="Test1" border="0" width=100px align="center"/>
+<img src="https://imgur.com/4wKf188" alt="Test1" border="0" width=100px align="center"/>
