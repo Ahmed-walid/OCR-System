@@ -1,11 +1,12 @@
 # OCR-System
 OCR system implemented using tesseract OCR engine 
 
-## Libraries 
+## Libraries
+- Pytesseract
 - Numpy
-- matplotlib
-- pytesseract
-- glob
+- Opencv
+- Matplotlib
+- Glob
 
 ## How to use it:
 1. Install tesseract and assign the full path of tesseract.exe to **tesseract_binary_path**.
