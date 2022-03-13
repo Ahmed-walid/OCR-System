@@ -18,4 +18,4 @@ OCR system implemented using tesseract OCR engine
 
 <img src="https://user-images.githubusercontent.com/62077516/158074192-526f1952-a90e-4034-8242-6b470f6fc6d5.jpg" alt="Test1" border="0" width=500px align="center"/>
 
-<img src="https://user-images.githubusercontent.com/62077516/158074196-f4d501ff-ea25-4d35-8741-e57088785b30.jpg" alt="Test1" border="0" width=500px align="center"/>
+<center><img src="https://user-images.githubusercontent.com/62077516/158074196-f4d501ff-ea25-4d35-8741-e57088785b30.jpg" alt="Test1" border="0" width=500px align="center"/></center>
